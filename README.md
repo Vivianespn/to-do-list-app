@@ -52,11 +52,14 @@ to-do-list-app/
  cd todo-list
 ```
 
-3. **Abra o arquivo `index.html` no seu navegador**
+3. **Abra o arquivo `index.html` no seu navegador:**
 
 ```sh
  open index.html
 ```
+
+4. **Ou acesse o projeto online:**
+   https://to-do-list-app-theta-flame.vercel.app/
 
 ## Funcionamentos em ação
 
