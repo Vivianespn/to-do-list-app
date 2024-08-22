@@ -59,7 +59,7 @@ to-do-list-app/
 ```
 
 4. **Ou acesse o projeto online:**
-   https://weather-app-navy-tau-27.vercel.app/
+   https://to-do-list-app-theta-flame.vercel.app/
 
 ## Funcionamentos em ação
 
